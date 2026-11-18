@@ -1,7 +1,6 @@
 """Run with preview, once, run, or test. Preview never sends or crawls."""
 import argparse
 import asyncio
-import fcntl
 import os
 from contextlib import contextmanager
 from datetime import datetime, timedelta
@@ -9,6 +8,7 @@ from pathlib import Path
 
 from playwright.async_api import Error as PlaywrightError
 
+from ._oslock import LockError, lock_nonblocking, unlock
 from .client import load_settings, open_client
 from .courses import fetch_courses
 from .errors import CollectionError
@@ -25,15 +25,15 @@ DATABASE = ROOT / 'data/reminder.sqlite3'
 def process_lock():
     path = ROOT / 'data/reminder.lock'
     path.parent.mkdir(mode=0o700, parents=True, exist_ok=True)
-    with path.open('a') as handle:
+    with path.open('a+b') as handle:
         try:
-            fcntl.flock(handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError:
+            lock_nonblocking(handle)
+        except LockError:
             raise CollectionError('已有提醒进程运行，请勿重复启动。') from None
         try:
             yield
         finally:
-            fcntl.flock(handle, fcntl.LOCK_UN)
+            unlock(handle)
 
 
 def options():

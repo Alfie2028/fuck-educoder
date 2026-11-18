@@ -111,7 +111,12 @@ class Client:
             await response.dispose()
 
 
-def load_settings():
+def load_settings(token=None, cookie=None, username=None):
+    """读取身份凭据。默认读 .env；传入 token/cookie/username 时用显式账号覆盖。
+
+    多账号场景：由调用方注入某账号登录抓到的 token(即 _educoder_session 值) / cookie / username，
+    username 必须提供（用于 Referer 与 zzud 参数）。
+    """
     load_dotenv(Path(__file__).resolve().parents[1] / '.env', interpolate=False)
     url = os.environ.get('EDUCODER_CLASSROOMS_URL', '')
     parts = urlsplit(url)
@@ -119,22 +124,27 @@ def load_settings():
     cached_username = match[1] if parts.scheme == 'https' and parts.netloc == 'www.educoder.net' and match else None
     has_session = all(os.environ.get(key) for key in ['EDUCODER_TOKEN', 'EDUCODER_COOKIE'])
     has_password = all(os.environ.get(key) for key in ['EDUCODER_LOGIN_ACCOUNT', 'EDUCODER_LOGIN_PASSWORD'])
-    if not has_session and not has_password:
+    eff_user = username if username is not None else cached_username
+    eff_token = token if token is not None else os.environ.get('EDUCODER_TOKEN', '')
+    eff_cookie = cookie if cookie is not None else os.environ.get('EDUCODER_COOKIE', '')
+    if not eff_token and not eff_cookie and not has_password:
         raise CollectionError('请在 .env 中填写 Token/Cookie，或登录账号和密码。')
+    if eff_user is None:
+        raise CollectionError('缺少 username（zzud 参数），请显式传入或提供 EDUCODER_CLASSROOMS_URL。')
     headers = {
         'Accept': 'application/json', 'Content-Type': 'application/json; charset=utf-8',
-        'Pc-Authorization': os.environ.get('EDUCODER_TOKEN', ''),
-        'Cookie': os.environ.get('EDUCODER_COOKIE', ''), 'X-EDU-Type': 'pc',
+        'Pc-Authorization': eff_token,
+        'Cookie': eff_cookie, 'X-EDU-Type': 'pc',
         'Referer': 'https://www.educoder.net/', 'Origin': 'https://www.educoder.net',
         'X-Original-Protocol': 'https:', 'X-Original-Host': 'www.educoder.net',
         'X-Original-Origin': 'https://www.educoder.net',
     }
-    return cached_username, headers
+    return eff_user, headers
 
 
 @asynccontextmanager
-async def open_client():
-    username, headers = load_settings()
+async def open_client(token=None, cookie=None, username=None):
+    username, headers = load_settings(token, cookie, username)
     async with async_playwright() as p:
         context = await p.request.new_context(extra_http_headers=headers, timeout=30000)
         client = Client(context, username, p, headers)

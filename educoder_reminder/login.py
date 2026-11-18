@@ -1,5 +1,4 @@
 """Recover sessions through the normal password form; never log credentials."""
-import fcntl
 import os
 import re
 import hashlib
@@ -13,6 +12,7 @@ from urllib.parse import urlsplit
 from dotenv import dotenv_values, set_key
 from playwright.async_api import Error as PlaywrightError
 
+from ._oslock import LockError, lock_nonblocking, unlock
 from .auth import signing_headers
 from .errors import AuthenticationExpired, CollectionError, IdentityMismatch
 
@@ -56,15 +56,15 @@ async def verify_identity(context, username=None):
 @contextmanager
 def recovery_lock():
     STATE_DIR.mkdir(mode=0o700, parents=True, exist_ok=True)
-    with (STATE_DIR / 'login.lock').open('a') as handle:
+    with (STATE_DIR / 'login.lock').open('a+b') as handle:
         try:
-            fcntl.flock(handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError:
+            lock_nonblocking(handle)
+        except LockError:
             raise CollectionError('已有进程正在恢复登录，请稍后重试。') from None
         try:
             yield
         finally:
-            fcntl.flock(handle, fcntl.LOCK_UN)
+            unlock(handle)
 
 
 def reserve_attempt(username, now=None):

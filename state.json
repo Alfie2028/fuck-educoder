@@ -1,0 +1,63 @@
+{
+  "config": {
+    "classroom": "2i6ng7vp",
+    "experiment": "面向对象分析之用例图",
+    "source": "C:/Users/alfie/Desktop/绘图自动化/绘图自动化"
+  },
+  "accounts": [
+    {
+      "phone": "19837425726",
+      "password": "abc123456",
+      "status": "done",
+      "cookie": "autologin_trustie=3244ad985f7a81bde1252c8e2a9cfc22c16e2767; _educoder_session=13ae15a8d96e94841656c380258617ba",
+      "username": "p68fjkaqi",
+      "user_id": 2341933,
+      "error": ""
+    },
+    {
+      "phone": "18550798458",
+      "password": "lyb060128",
+      "status": "done",
+      "cookie": "autologin_trustie=6fe8615e27720928691e87748c5699887aaf4deb; _educoder_session=e56692a635c2bef70c89a2ab595c4cb4",
+      "username": "pfkxrc4sz",
+      "user_id": 2482900,
+      "error": ""
+    },
+    {
+      "phone": "19273144748",
+      "password": "su428065",
+      "status": "done",
+      "cookie": "autologin_trustie=93acf3bace1df26645b5f35d1f029728ab32a2dc; _educoder_session=50db27eb1dd68470a16baf8b876aad12",
+      "username": "p4ya3zx7u",
+      "user_id": 2454466,
+      "error": ""
+    },
+    {
+      "phone": "18937583678",
+      "password": "20060217z",
+      "status": "done",
+      "cookie": "autologin_trustie=684e0ab78b53c94654ef79c1d79036c01d3ab138; _educoder_session=55163544449587cfc8c6308b3d9c5dd0",
+      "username": "pyfgh4uxe",
+      "user_id": 2454391,
+      "error": ""
+    },
+    {
+      "phone": "15837001236",
+      "password": "l123456.",
+      "status": "done",
+      "cookie": "autologin_trustie=1b09f77b8bed0a0bf1914319496800959b58ae6c; _educoder_session=64f1d168c2752a2a5736ea617843a1de",
+      "username": "ptbk69x25",
+      "user_id": 2476486,
+      "error": ""
+    },
+    {
+      "phone": "15936878265",
+      "password": "20070222Xch@",
+      "status": "done",
+      "cookie": "autologin_trustie=008fff0a0467381f448e051495361df53f4f7468; _educoder_session=ebfc5f39279705621f40b7aa30b1f053",
+      "username": "pwxz4copr",
+      "user_id": 2469397,
+      "error": ""
+    }
+  ]
+}

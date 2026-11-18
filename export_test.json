@@ -1,0 +1,4031 @@
+{
+  "version": 2,
+  "kind": "class-answers",
+  "generated_at": "2026-10-23T05:05:42.362529Z",
+  "class": {
+    "grade": "",
+    "name": "本机导出"
+  },
+  "classrooms": [
+    {
+      "name": "软件工程导论2026年下半年",
+      "code": "2i6ng7vp",
+      "experiments": [
+        {
+          "name": "软件项目质量管理",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件项目质量管理概述",
+              "identifiers": [
+                "e2i3s4qgrcfl"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "CMMI-软件能力成熟度集成模型",
+              "identifiers": [
+                "yiumt35fabx4"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件项目成本管理",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件项目成本管理概述",
+              "identifiers": [
+                "twfj8ksxlfe5"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件规模度量与软件成本估算",
+              "identifiers": [
+                "4fliz957caup"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "项目成本估算表及项目成本控制",
+              "identifiers": [
+                "k3e6tcnl4rqh"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "项目进度控制及计划评审技术",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件项目进度管理概述",
+              "identifiers": [
+                "hbm7aytlcseo"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "进度管理图示方法-网络图与关键路径",
+              "identifiers": [
+                "ypafjszwq465"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "PERT计划评审技术（三点估计法）",
+              "identifiers": [
+                "7nastfoi3kh2"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "进度管理图示方法-甘特图与项目进度计划表",
+              "identifiers": [
+                "6w2zi9lvax4n"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "WBS工作分解及项目范围控制",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件项目范围控制",
+              "identifiers": [
+                "xeli62gnayqb"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "WBS工作分解结构",
+              "identifiers": [
+                "kbxsg72arfjf"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件项目管理基础及软件项目规划",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件项目基础",
+              "identifiers": [
+                "9j8a5v6pxohf"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件项目规划",
+              "identifiers": [
+                "4az9hvokcje5"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "项目计划书",
+              "identifiers": [
+                "q5269jlib43t"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "数据管理部分设计实例",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "根据类图写出客户表",
+              "identifiers": [
+                "fnceyg3oax2z"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "根据类图写出酒店表",
+              "identifiers": [
+                "on3ay5z4ljfw"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "根据类图写出酒店工作人员表",
+              "identifiers": [
+                "95bc38rkyfi6"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "控制驱动部分设计实例",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "认识starUML中的相关元素",
+              "identifiers": [
+                "cnhtpf583ywr"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "补充类图属性",
+              "identifiers": [
+                "obhnxg692tau"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "人机交互部分设计实例",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "单选题",
+              "identifiers": [
+                "mn8ru5pfy96g"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": []
+                },
+                {
+                  "number": 2,
+                  "selected": []
+                },
+                {
+                  "number": 3,
+                  "selected": []
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "问题域分析部分设计实例",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "认识starUML中的相关元素",
+              "identifiers": [
+                "hkoibsuwvjla"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "问题域分析基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "选择题",
+              "identifiers": [
+                "rfcb9v6jazqp"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "判断题",
+              "identifiers": [
+                "y7kcst5fx9qf"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "面向对象设计的基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "选择题",
+              "identifiers": [
+                "azr5fmn72xct"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "判断题",
+              "identifiers": [
+                "jq5yokturvez"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "面向对象分析之顺序图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "顺序图题目初体验",
+              "identifiers": [
+                "yrnckj496vt5"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "请画出酒店工作人员角色（带有生命线）",
+              "identifiers": [
+                "acvjf6n5ih3s"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "请画出注册页面对象（带有生命线）",
+              "identifiers": [
+                "bngq849kzrf2"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "请画出房间库对象（带有生命线）",
+              "identifiers": [
+                "wqfc8ove9ira"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "请画出酒店工作人员和注册页面之间的消息传递内容",
+              "identifiers": [
+                "gyj3lzxmco9e"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L006",
+              "position": 6,
+              "title": "请画出注册页面对象自身传递消息",
+              "identifiers": [
+                "z4hp6qt5ugck"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L007",
+              "position": 7,
+              "title": "请再次画出酒店工作人员和注册页面之间的消息传递内容",
+              "identifiers": [
+                "tnyxzfwqapgu"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L008",
+              "position": 8,
+              "title": "请画出注册页面对象和房间库对象之间的消息传递内容",
+              "identifiers": [
+                "7l6freu4b2nh"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "面向对象分析之活动图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "活动图题目初体验",
+              "identifiers": [
+                "p7nzif5cuktb"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "请画出开始节点",
+              "identifiers": [
+                "waqkjg569l7e"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "之后进入网络，画出进入酒店管理系统主页的状态",
+              "identifiers": [
+                "xsihog8vqjmu"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "下一步画出酒店业务状态",
+              "identifiers": [
+                "f9nl6fosihar"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "之后选择服务，画出订房服务状态",
+              "identifiers": [
+                "xv7l45qshony"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L006",
+              "position": 6,
+              "title": "之后出现分支，状态分别为满房和有空房",
+              "identifiers": [
+                "a839cyes52vn"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L007",
+              "position": 7,
+              "title": "之后分支汇合，汇合条件为无法预订和提交订房订单",
+              "identifiers": [
+                "9jz8melcao5x"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L008",
+              "position": 8,
+              "title": "下一步画出处理订单状态",
+              "identifiers": [
+                "nwgic273vrzl"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L009",
+              "position": 9,
+              "title": "结束，画出结束节点",
+              "identifiers": [
+                "z43l5qny9rtx"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "面向对象分析之类图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "类图题目初体验",
+              "identifiers": [
+                "kcbslzjoxn9u"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "请画出客户类（包括属性和操作）",
+              "identifiers": [
+                "msf4xl7j8ziq"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "请画出酒店客房类（包括属性和操作）",
+              "identifiers": [
+                "uqzfxgsif3h6"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "画出客户类和酒店客房类之间的关系",
+              "identifiers": [
+                "or8f7ktyclz3"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "面向对象分析之用例图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "用例图题目初体验",
+              "identifiers": [
+                "sp7hyv62bx4i"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "请根据系统案例分析来画出客户这个参与者",
+              "identifiers": [
+                "ypqr829xolkf"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "请画出客户参与者的所有用例",
+              "identifiers": [
+                "cn6ez7gqlti4"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "请根据系统案例分析来画出酒店工作人员这个参与者",
+              "identifiers": [
+                "ebg3iyn9lqwk"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "请画出酒店工作人员参与者的所有用例",
+              "identifiers": [
+                "g9ajsq8f5pox"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L006",
+              "position": 6,
+              "title": "请根据系统案例分析来画出软件营销人员这个参与者",
+              "identifiers": [
+                "y6b43pvflusq"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L007",
+              "position": 7,
+              "title": "请画出软件营销人员参与者的所有用例",
+              "identifiers": [
+                "ks7xvuzq3jfh"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L008",
+              "position": 8,
+              "title": "请根据系统案例分析来画出软件管理人员这个参与者",
+              "identifiers": [
+                "xgrpbnuwheao"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L009",
+              "position": 9,
+              "title": "请画出软件管理人员参与者的所有用例",
+              "identifiers": [
+                "2jrmt6pqfxkv"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "面向对象分析的基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "用例图的基本概念",
+              "identifiers": [
+                "qlims7fe3ug4"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "类图的基本概念",
+              "identifiers": [
+                "9rcthpx2yu8k"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "顺序图的基本概念",
+              "identifiers": [
+                "kgy47bfvsnwt"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "活动图的基本概念",
+              "identifiers": [
+                "w8x9y63vjes7"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "集成测试和确认测试",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "集成测试",
+              "identifiers": [
+                "48gt7bhoz32p"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "确认测试",
+              "identifiers": [
+                "xpw86mycu5z4"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 7,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 8,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "单元测试",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "使用Junit进行单元测试",
+              "identifiers": [
+                "bgay6joc7m9p"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "改进——Junit参数化测试",
+              "identifiers": [
+                "4fmgcyjkl6po"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "白盒测试",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "逻辑覆盖-语句覆盖",
+              "identifiers": [
+                "6q38nifmxwac"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "逻辑覆盖-判定覆盖",
+              "identifiers": [
+                "6tclzxb5w83i"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "逻辑覆盖-条件覆盖",
+              "identifiers": [
+                "oq3rmpukchng"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "逻辑覆盖-判定/条件覆盖",
+              "identifiers": [
+                "6c3s9mugv5rx"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "逻辑覆盖-条件组合覆盖",
+              "identifiers": [
+                "ofbje48qzf7h"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L006",
+              "position": 6,
+              "title": "逻辑覆盖-路径覆盖",
+              "identifiers": [
+                "oa9fvmegryxb"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L007",
+              "position": 7,
+              "title": "基本路径测试",
+              "identifiers": [
+                "f27thz9luivy"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "黑盒测试",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "等价类划分法",
+              "identifiers": [
+                "i9e52fzucfm3"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "边界值分析法",
+              "identifiers": [
+                "bjqc95hrsxy6"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "D",
+                    "E"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "E"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A",
+                    "B",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 7,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 8,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件测试基础",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件测试的目标和准则",
+              "identifiers": [
+                "kpo4qryx9jf8"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件测试的方法和步骤",
+              "identifiers": [
+                "lvu5ofbgqhwe"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "编程风格",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "命名",
+              "identifiers": [
+                "5bky6n2cgom4"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "注释",
+              "identifiers": [
+                "wf2mrquio6bh"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "布局",
+              "identifiers": [
+                "eawkmjzsifht"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "数据说明",
+              "identifiers": [
+                "z9k8rwf43yjs"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "语句构造",
+              "identifiers": [
+                "nsal3fhuo698"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "编程语言",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "选择正确的编程语言",
+              "identifiers": [
+                "i5p6f487zsfa"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件设计规约及评审",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件设计规约",
+              "identifiers": [
+                "zt8vcbkmua7n"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件设计评审",
+              "identifiers": [
+                "9wf7rjaeu83x"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件详细设计-2",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "绘制程序流程图-认识StarUML中的相关元素",
+              "identifiers": [
+                "i9rj3omfqux2"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "绘制程序流程图-网上商城系统新建订单模块",
+              "identifiers": [
+                "kflj5ubm2oxc"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "绘制程序流程图-网上商城系统订单审核模块",
+              "identifiers": [
+                "myq5pjft7fr3"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "McCabe方法",
+              "identifiers": [
+                "paefi6ul57z9"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": []
+                },
+                {
+                  "number": 2,
+                  "selected": []
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "Halstead方法",
+              "identifiers": [
+                "n5ubr86ozwl3"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": []
+                },
+                {
+                  "number": 2,
+                  "selected": []
+                },
+                {
+                  "number": 3,
+                  "selected": []
+                },
+                {
+                  "number": 4,
+                  "selected": []
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件详细设计-1",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "判定树-网上商城系统库存模块",
+              "identifiers": [
+                "zrtufe5vy8lp"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "E"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "F"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "E"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "F"
+                  ]
+                },
+                {
+                  "number": 7,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "判定表-网上商城系统库存模块",
+              "identifiers": [
+                "r25ptxah8smn"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "PAD图-网上商城系统购买商品模块",
+              "identifiers": [
+                "l3rst9jcf8za"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "N-S图-网上商城系统登录购物模块(1)",
+              "identifiers": [
+                "im95rf2ph7tq"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "N-S图-网上商城系统登录购物模块(2)",
+              "identifiers": [
+                "lcpb23a7t6kz"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "面向数据流的设计方法-2",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "将数据流图转换为模块结构图-认识StarUML中的相关元素",
+              "identifiers": [
+                "2bcek5zrmlsa"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "将数据流图转换为模块结构图-画出主模块",
+              "identifiers": [
+                "hcprf4i7e285"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "将数据流图转换为模块结构图-画出输入部分",
+              "identifiers": [
+                "ptjsxcur6hfa"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "将数据流图转换为模块结构图-画出变换部分",
+              "identifiers": [
+                "tbpo25lmsg87"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L005",
+              "position": 5,
+              "title": "将数据流图转换为模块结构图-画出输出模块",
+              "identifiers": [
+                "wnu68jxcbzor"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L006",
+              "position": 6,
+              "title": "事务型结构图",
+              "identifiers": [
+                "rbvlfgzqsjfy"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": []
+                },
+                {
+                  "number": 2,
+                  "selected": []
+                },
+                {
+                  "number": 3,
+                  "selected": []
+                },
+                {
+                  "number": 4,
+                  "selected": []
+                },
+                {
+                  "number": 5,
+                  "selected": []
+                },
+                {
+                  "number": 6,
+                  "selected": []
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "面向数据流的设计方法-1",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "数据流图-认识StarUML中的相关元素",
+              "identifiers": [
+                "rwpsxbtj4c2i"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "模块及模块化设计思想",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "模块化及模块化思想",
+              "identifiers": [
+                "o5gk89cljapv"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A",
+                    "B",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "内聚和耦合",
+              "identifiers": [
+                "kjwuop7fbisn"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 7,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 8,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "启发规则",
+              "identifiers": [
+                "iblzmae9v85r"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "结构化分析工具",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "层次方框图",
+              "identifiers": [
+                "lya8f5gj3zhc"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "Warnier图",
+              "identifiers": [
+                "etyiaq46n2xf"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "IPO图",
+              "identifiers": [
+                "8ekwcmljzovh"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "结构化分析方法-状态转换图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "状态转换图-画出初态终态",
+              "identifiers": [
+                "fcpo2z35jxwb"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "结构化分析方法-实体-联系图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "实体联系图-画出实体",
+              "identifiers": [
+                "axh83ewngfqm"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "结构化分析方法-数据流图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "数据流图-画出外部实体",
+              "identifiers": [
+                "ope378z6gwyr"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "结构化分析的基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "结构化分析的基本概念",
+              "identifiers": [
+                "f3rtignohk4w"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "结构化分析方法",
+              "identifiers": [
+                "nsfzicumfa6t"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "数据规范化",
+              "identifiers": [
+                "vknmf8igtcps"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "需求分析的基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件需求分析的定义、任务和过程",
+              "identifiers": [
+                "m6lyoagxjcbk"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "系统的8个综合需求",
+              "identifiers": [
+                "x6fyzl4nafuk"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "社会因素可行性分析以及风险分析",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "社会因素可行性分析",
+              "identifiers": [
+                "u2o7sgfrknlh"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "风险分析",
+              "identifiers": [
+                "nj2o643fslix"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "技术可行性分析和经济可行性分析",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "技术可行性分析",
+              "identifiers": [
+                "u6fh9zjtm75y"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "经济可行性分析的基本概念以及软件成本预估",
+              "identifiers": [
+                "xfye58t72p9n"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "经济/效益分析方法",
+              "identifiers": [
+                "xjkupy7omrwh"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "对现有的系统进行分析",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "对现行系统分析的基本概念",
+              "identifiers": [
+                "lxffqh57peno"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "请画出数据库信息处理流程",
+              "identifiers": [
+                "bgvyr36qjons"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "请画出文件信息处理流程",
+              "identifiers": [
+                "pb5nagq9uf4l"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "系统流程图的绘制",
+              "identifiers": [
+                "v47ripaueh6w"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "项目立项和可行性分析基本概念",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "项目立项",
+              "identifiers": [
+                "zufjy8qbio2g"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "可行性研究的基本概念和内容",
+              "identifiers": [
+                "yo5z4flwupfb"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件过程模型",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "瀑布模型、快速原型模型",
+              "identifiers": [
+                "rja5ebqt2n9z"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "增量模型、螺旋模型",
+              "identifiers": [
+                "zf4ksx6nacu2"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "敏捷过程模型、喷泉模型",
+              "identifiers": [
+                "6xf5acvrg2uw"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "微软过程模型、Rational统一过程模型",
+              "identifiers": [
+                "f8z5ia3lktvn"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件工程",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件工程的本质特性",
+              "identifiers": [
+                "e8urh2goimk4"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件工程的基本原理",
+              "identifiers": [
+                "x2tuk7lvaprm"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "软件工程方法学",
+              "identifiers": [
+                "gkzxyh8v42fc"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A",
+                    "C",
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "软件工程的发展历程",
+              "identifiers": [
+                "fxaubqez9lni"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件危机",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件危机发生的背景",
+              "identifiers": [
+                "fuvytc7lrbem"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L002",
+              "position": 2,
+              "title": "软件危机的几种常见表现",
+              "identifiers": [
+                "2lbvcoemzrgw"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L003",
+              "position": 3,
+              "title": "软件危机产生的原因",
+              "identifiers": [
+                "e6igkxfnbzvf"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                }
+              ],
+              "source": "platform"
+            },
+            {
+              "level_id": "L004",
+              "position": 4,
+              "title": "软件危机应对途径",
+              "identifiers": [
+                "hbtnf5ruajik"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "E"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "找出代码中的bug",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "使用Junit进行单元测试",
+              "identifiers": [
+                "2nmqs85vel6b"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "制定进度计划",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "进度管理图示方法-网络图与关键路径",
+              "identifiers": [
+                "a2vin85qgpjz"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "高质量的代码",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "数据说明",
+              "identifiers": [
+                "fzg6vtsa5jne"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "设计友好的人机交互",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "人机交互",
+              "identifiers": [
+                "ngvqfrhalm57"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A",
+                    "C",
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "学画用例图",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "请根据系统案例分析来画出客户这个参与者",
+              "identifiers": [
+                "8a2qztr3mieu"
+              ],
+              "kind": "code",
+              "answered": false,
+              "answer": {},
+              "source": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "紧耦合&高内聚",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "内聚和耦合",
+              "identifiers": [
+                "fw7p8ctjz6kr"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "D"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "描述软件需求",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "描述软件需求",
+              "identifiers": [
+                "z7arj3h6foc2"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 7,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 8,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 9,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "这个软件项目可行吗？",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "经济/效益分析法",
+              "identifiers": [
+                "hfgver98kf56"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        },
+        {
+          "name": "软件危机来了",
+          "levels": [
+            {
+              "level_id": "L001",
+              "position": 1,
+              "title": "软件危机",
+              "identifiers": [
+                "lwzfomq6y4kc"
+              ],
+              "kind": "choice",
+              "answered": true,
+              "answer": [
+                {
+                  "number": 1,
+                  "selected": [
+                    "D"
+                  ]
+                },
+                {
+                  "number": 2,
+                  "selected": [
+                    "C"
+                  ]
+                },
+                {
+                  "number": 3,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 4,
+                  "selected": [
+                    "B"
+                  ]
+                },
+                {
+                  "number": 5,
+                  "selected": [
+                    "A"
+                  ]
+                },
+                {
+                  "number": 6,
+                  "selected": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                }
+              ],
+              "source": "platform"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[142220:144552:1023/122254.070:WARNING:kernel_parameter_setter.cc(150)] [KernelParameterSetter] NotifyDoublePinyinSchemeChanged failed, scheme=Sogou status=1
+[142220:144552:1023/122254.070:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v2.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v2.filemap.sogouime5410e5f5057
+[142220:144552:1023/122254.070:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[142220:144552:1023/122254.070:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[142220:144552:1023/122254.305:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v2.filemap.sogouime
+[142220:144552:1023/122254.306:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:2
+[142220:144552:1023/122254.306:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[142220:144552:1023/122254.519:WARNING:t_statuswatchdog.cpp(285)] [StatusWatchdog] started, hwnd=00000000000B0A78 tid=117968 pid=142220 probe_timeout_ms=1000 check_interval_ms=1000 timeout_threshold=8 join_timeout_ms=3000 startup_delay_ms=179191
